@@ -1,0 +1,6 @@
+.dropdown-menu{
+    display: list-item;
+}
+.dropdown-toggle, .dropdown-item{
+    cursor: pointer;
+}
